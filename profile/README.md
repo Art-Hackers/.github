@@ -1,6 +1,6 @@
 # Art Hackers
 
-Art Hackers is an independent open-source organization focused on security research, offensive security tooling, developer infrastructure, and cross-platform software development.
+Art Hackers is an independent open-source organization based in Greenland focused on security research, offensive security tooling, developer infrastructure, and cross-platform software development.
 
 We build practical software for developers, security professionals, researchers, and enthusiasts who value simplicity, reliability, and performance.
 
